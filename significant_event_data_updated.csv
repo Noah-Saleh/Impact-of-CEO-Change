@@ -1,0 +1,23 @@
+Ticker,Company_Name,Date,Sector,Size,Reason for Departure,CEO tenure in years
+EBAY,eBay,9/25/2019,online retail,large,Differences with investors/board,4.17
+NKE,Nike,10/22/2019,athletic wear,large,Scandal(s),13
+KHC,Kraft Heinz,4/22/2019,food,large,Poor performance,4
+CL,Colgate-Palmolive,2/11/2019,health,large,Planned retirement,12
+MCD,McDonalds,11/3/2019,food,large,Scandal(s),4.67
+GOOG,Alphabet,2019/12/03,tech,large,Planned retirement,4.42
+GOOGL,Alphabet,2019/12/03,tech,large,Planned retirement,4.42
+WFC,Wells Fargo,2019/03/28,banking,large,Scandal(s),2.42
+UA,Under Armour,10/22/2019,athletic wear,medium,Planned retirement,23
+UAA,Under Armour,10/22/2019,athletic wear,medium,Planned retirement,23
+GPS,Gap,11/7/2019,clothing,medium,Poor performance,4
+UAL,United Airlines,12/5/2019,transportation,medium,Planned retirement,4
+EXPE,Expedia,12/4/2019,travel,medium,Differences with investors/board,2.33
+BURL,Burlington Stores,4/25/2019,clothing retail,medium,Poor performance,10.33
+WBD,Warner Bros Discovery,3/18/2019,Media,medium,Scandal(s),6
+TPR,Tapestry,2019/09/04,Fashion,medium,Poor performance,5
+OSTK,Overstock,8/12/2019,internet retail,small,Scandal(s),20
+GES,Guess,1/28/2019,clothing,small,Unspecified,4
+APRN,Blue Apron,4/2/2019,food/delivery,small,Poor performance,1.83
+RAD,Rite Aid,3/12/2019,drugs,small,Corporate restructuring,6.75
+BBBY,Bed bath and beyond,5/13/2019,home goods retail,small,Poor performance,16
+SCOR,Comscore,3/31/2019,media data,small,Differences with investors/board,0.92
