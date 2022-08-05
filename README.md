@@ -1,4 +1,4 @@
-# Effects of a CEO Change  
+# Impact of CEO Change  
 ## Summary of Purpose  
 
 This is an analysis of the effects a CEO change has on the stock-price of a company using Jupyter Notebooks.
@@ -52,7 +52,7 @@ Using a conda environment from anaconda is preferable.
 To view it, download the repository & open the .ipynb file with Jupyter Lab or some program that can run .ipynb files (e.g. VS Code using some extensions/add-ons).  
 The cells should already have been run. If some haven't been run, then restart the kernel and run all the cells.
 
-To view our hypotheses, write-up/conclusions, etc., click the google slides link [here](https://www.google.com).
+To view our hypotheses, write-up/conclusions, etc., click the google slides link [here](https://docs.google.com/presentation/d/1Gy1G9pWrJKme_ZKLChIlZ7Qs9p-8P2n99BhNxzK_Hwo/edit?usp=sharing).
 
 ---
 
