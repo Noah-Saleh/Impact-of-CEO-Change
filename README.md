@@ -1,4 +1,7 @@
 # Impact of CEO Change  
+
+For more version history, see this old github repo: https://github.com/Noah-Saleh/Effects_of_a_CEO_Change
+
 ## Summary of Purpose  
 
 This is an analysis of the effects a CEO change has on the stock-price of a company using Jupyter Notebooks.
@@ -34,7 +37,7 @@ numpy as np
 hvplot.pandas  
 Path from pathlib
 
-import panel as pn
+panel as pn  
 MCSimulation from MCForecastTools
 
 %matplotlib inline  
